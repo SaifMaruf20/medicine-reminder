@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "OshudhSathi - ঔষধসাথী",
+    "slug": "oshudhsathi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "oshudhsathi",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.oshudhsathi.app",
+      "infoPlist": {
+        "NSCameraUsageDescription": "ক্যামেরা ব্যবহার করে প্রেসক্রিপশন স্ক্যান করুন",
+        "NSContactsUsageDescription": "জরুরি কন্টাক্ট যোগ করতে ফোনবুক প্রবেশাধিকার দিন",
+        "NSPhotoLibraryUsageDescription": "প্রেসক্রিপশন ছবি বাছাই করুন"
+      }
+    },
+    "android": {
+      "package": "com.oshudhsathi.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#047857",
+        "foregroundImage": "./assets/android-icon-foreground.png"
+      },
+      "permissions": [
+        "CAMERA",
+        "READ_CONTACTS",
+        "READ_EXTERNAL_STORAGE",
+        "VIBRATE",
+        "RECEIVE_BOOT_COMPLETED",
+        "SCHEDULE_EXACT_ALARM"
+      ],
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-splash-screen",
+      "expo-secure-store",
+      "expo-sharing",
+      "expo-web-browser"
+    ]
+  }
+}
