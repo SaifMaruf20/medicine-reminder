@@ -4,7 +4,7 @@
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Mobile App](https://img.shields.io/badge/Platform-Mobile_%26_Web-0055DA?style=for-the-badge&logo=android&logoColor=white)
 
-> **Owsud Sathi** (অসুধ সাথী) is a comprehensive digital pharmacy, medicine delivery, and healthcare management platform ecosystem. Integrates admin portal controls, RESTful APIs, consumer landing platforms, and mobile application interfaces.
+> **Owsud Sathi** (ঔষধ সাথী) is a comprehensive digital pharmacy, medicine delivery, and healthcare management platform ecosystem. Integrates admin portal controls, RESTful APIs, consumer landing platforms, and mobile application interfaces.
 
 ---
 
