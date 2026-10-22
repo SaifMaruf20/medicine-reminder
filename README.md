@@ -1,10 +1,10 @@
-# 🏥 Owsud Sathi — Integrated Digital Pharmacy & Health Ecosystem
+# 🏥 Ousud Sathi — Integrated Digital Pharmacy & Health Ecosystem
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Mobile App](https://img.shields.io/badge/Platform-Mobile_%26_Web-0055DA?style=for-the-badge&logo=android&logoColor=white)
 
-> **Owsud Sathi** (ঔষধ সাথী) is a comprehensive digital pharmacy, medicine delivery, and healthcare management platform ecosystem. Integrates admin portal controls, RESTful APIs, consumer landing platforms, and mobile application interfaces.
+> **Ousud Sathi** (ঔষধ সাথী) is a comprehensive digital pharmacy, medicine delivery, and healthcare management platform ecosystem. Integrates admin portal controls, RESTful APIs, consumer landing platforms, and mobile application interfaces.
 
 ---
 
@@ -20,4 +20,4 @@
 
 ## 📄 License
 
-Copyright © Owsud Sathi Healthtech.
+Copyright © Ousud Sathi Healthtech.
